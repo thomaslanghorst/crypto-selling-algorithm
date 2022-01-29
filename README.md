@@ -1,6 +1,6 @@
 # Crypto Selling Algorithm
 
-The crypto selling algorithm is a small program that indicates selling opportunities for crypto coins. I
+The crypto selling algorithm is a small program that indicates selling opportunities for crypto coins.
 
 It looks at the prices of Solana and Cardano from _2021-01-18_ to _2022-01-18_  and watches out for two criteria to find selling points:
 
